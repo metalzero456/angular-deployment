@@ -1,1 +1,1 @@
-web: gunicorn app:api_movies
+web: gunicorn api_movies:app
